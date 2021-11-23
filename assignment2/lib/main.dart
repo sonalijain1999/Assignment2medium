@@ -22,7 +22,7 @@ class _State extends State<MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar:  AppBar(
-        title:  Text('Name here'),
+        title:  Text('Assignment2'),
       ),
       body:  Container(
           padding:  EdgeInsets.all(32.0),
